@@ -1,0 +1,28 @@
+{
+	"schemaVersion": 1,
+	"id": "gojo_infinity",
+	"version": "${version}",
+	"name": "Gojo's Infinity",
+	"description": "Gojo Satoru's Infinity from Jujutsu Kaisen: things that approach you slow down and stop before they ever touch you. Toggle with a keybind; unlock it in Survival by crafting an Infinity Core.",
+	"authors": [
+		"Gojo Infinity Mod"
+	],
+	"contact": {},
+	"license": "CC0-1.0",
+	"icon": "assets/gojo_infinity/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.gojoinfinity.GojoInfinityMod"
+		],
+		"client": [
+			"dev.gojoinfinity.client.GojoInfinityClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

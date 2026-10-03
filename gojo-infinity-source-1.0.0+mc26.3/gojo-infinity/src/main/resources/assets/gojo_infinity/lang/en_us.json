@@ -1,0 +1,11 @@
+{
+  "item.gojo_infinity.infinity_core": "Infinity Core",
+  "key.category.gojo_infinity.main": "Gojo's Infinity",
+  "key.gojo_infinity.toggle": "Toggle Infinity",
+  "message.gojo_infinity.on": "Infinity: ON",
+  "message.gojo_infinity.off": "Infinity: OFF",
+  "message.gojo_infinity.locked": "You have not attuned to Infinity yet. Craft and use an Infinity Core.",
+  "message.gojo_infinity.unlocked": "You have attuned to Infinity. Press %s to toggle it.",
+  "message.gojo_infinity.already_unlocked": "You are already attuned to Infinity.",
+  "message.gojo_infinity.disabled_by_server": "Infinity is disabled in this server's config."
+}

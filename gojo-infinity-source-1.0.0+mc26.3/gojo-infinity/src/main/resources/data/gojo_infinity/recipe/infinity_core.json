@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "AEA",
+    "ENE",
+    "AEA"
+  ],
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "E": "minecraft:ender_eye",
+    "N": "minecraft:nether_star"
+  },
+  "result": {
+    "id": "gojo_infinity:infinity_core",
+    "count": 1
+  }
+}
